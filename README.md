@@ -7,7 +7,7 @@ Saved models as `.pkl` files. Developed **three Streamlit apps** (1 classificati
 
 ---
 
-### 🛠 App Development & Deployment  
+###  App Development & Deployment  
 **Tools**: `Anaconda Command Prompt`, `Streamlit`, `Streamlit Cloud`
 
 - **Anaconda Command Prompt**: Used to run development commands like `streamlit run app.py`, manage environments, and install dependencies.
