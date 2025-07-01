@@ -16,9 +16,9 @@ Saved models as `.pkl` files. Developed **three Streamlit apps** (1 classificati
 
 ---
 
-### 📚 Libraries  
+### Libraries  
 **pandas**, **seaborn**, **matplotlib**, **sweetviz**, **ydata-profiling**, **yellowbrick**, **scikit-learn**, **joblib**
-### 📚 Libraries Used
+### Libraries Used
 
 - **pandas** – For data manipulation and preprocessing (e.g., cleaning, filtering, grouping)
 - **seaborn** – For advanced data visualization, including categorical plots and heatmaps
@@ -32,13 +32,13 @@ Saved models as `.pkl` files. Developed **three Streamlit apps** (1 classificati
 
 ---
 
-### 🧠 ML Algorithms  
+### ML Algorithms  
 
 - **Clustering** – `KMeans`, `KMeans++ Init`, `Hierarchical (Agglomerative)`, `DBSCAN`  
 - **Classification** – `Random Forest Classifier`  
 - **Regression** – `Linear Regression`, `Random Forest Regressor`
 
-  ### 🤖 Machine Learning Algorithms Used
+  ### Machine Learning Algorithms Used
 
 - **Clustering**:
   - `KMeans`: Segmented customers using `Annual Income (k$)` and `Spending Score (1–100)` to identify distinct customer groups such as **young high spenders**, **cautious wealthy**, etc.
